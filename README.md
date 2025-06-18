@@ -1,5 +1,8 @@
 # Self Data Engineering 🧑🏼‍💻
 
+<p align="center"><strong><em>Keep learning. Keep building. Keep moving forward.</em></strong></p>
+
+
 Welcome to my personal portfolio repository — a versioned journey toward mastering data engineering and analytics through real-world projects, consistent practice, and tool-based learning.
 
 ---
