@@ -61,15 +61,15 @@ Each project is versioned step-by-step to show my growth from foundational skill
 
 ## 🧭 Repository Structure
 
-Self_Data_Engineering/
-│
-├── README.md                    ← Overview of the whole repository
-├── docs/                        ← Documentation, plans, resources
-│   └── learning-plan.md         ← Your 3-month roadmap (we’ll create this next)
-│
-└── YouTube_Trending_ETL/       ← First project folder
-    └── v1_c_basics/            ← Version 1: simple CSV reading in C
-        ├── src/                ← Your C code
-        ├── data/               ← Your sample CSV
-        ├── docs/               ← Data schema and ETL design
-        └── README.md           ← Project-specific explanation
+    Self_Data_Engineering/
+    │
+    ├── README.md                    ← Overview of the whole repository
+    ├── docs/                        ← Documentation, plans, resources
+    │   └── learning-plan.md         ← Your 3-month roadmap (we’ll create this next)
+    │
+    └── YouTube_Trending_ETL/       ← First project folder
+        └── v1_c_basics/            ← Version 1: simple CSV reading in C
+            ├── src/                ← Your C code
+            ├── data/               ← Your sample CSV
+            ├── docs/               ← Data schema and ETL design
+            └── README.md           ← Project-specific explanation
